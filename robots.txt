@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dustinkeitel.github.io/bnaimitzvahdothorse/sitemap.xml
